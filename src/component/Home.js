@@ -1,6 +1,4 @@
 import React, {Component} from "react";
-import Rainbow from "../hoc/Rainbow";
-import axios from "axios"
 import {Link} from "react-router-dom";
 import Pokeball from "../pokeball.png"
 import {connect} from "react-redux";
